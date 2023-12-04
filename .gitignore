@@ -1,0 +1,5 @@
+# ignores all .env files anywhere in the project and all files and folders
+# anywhere in the project along with other files and folders that are inside
+
+.env
+node_modules
